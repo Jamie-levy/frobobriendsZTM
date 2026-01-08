@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "https://jamie-levy.github.io/frobobriendsZTM/"
 })
